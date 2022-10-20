@@ -1,10 +1,10 @@
 ###########################################################
 #   Description: Compile OpenWrt by GitHub Actions        #
 #   Based on: https://github.com/P3TERX/Actions-OpenWrt   #
-#   Author: Hyy2001X                                      #
+#   Author:                                       #
 ###########################################################
 
-name: NEWIFI D2
+name: QINZZ WiFi
 
 ### 以下内容请保持不变 ( 请修改下方的 [环境变量设置] )
 on:
