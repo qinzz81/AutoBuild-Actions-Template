@@ -7,7 +7,7 @@ Firmware_Diy_Core() {
 	Author=AUTO
 	Author_URL=AUTO
 	Default_Flag=AUTO
-	Default_IP="192.168.1.1"
+	Default_IP="192.168.0.22"
 	Default_Title="Powered by AutoBuild-Actions"
 
 	Short_Fw_Date=true
@@ -23,8 +23,8 @@ Firmware_Diy() {
 	# 请在该函数内定制固件
 
 	# 可用预设变量, 其他可用变量请参考运行日志
-	# ${OP_AUTHOR}			OpenWrt 源码作者
-	# ${OP_REPO}			OpenWrt 仓库名称
+	#${OP_AUTHOR}			OpenWrt 源码作者
+	#${OP_REPO}			OpenWrt 仓库名称
 	# ${OP_BRANCH}			OpenWrt 源码分支
 	# ${TARGET_PROFILE}		设备名称
 	# ${TARGET_BOARD}		设备架构
